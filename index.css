@@ -345,7 +345,7 @@ border-radius: 8px !important;
 }
 
 .accordion-button::after {
-    background-color: #b0b4be;
+    background-color: #fff;
     padding: 1px;
     border-radius: 8px;
 }
@@ -362,7 +362,7 @@ border-radius: 8px !important;
 
 
 .accordion-button:hover, .accordion-button:active , .accordion-button:not(.collapsed){
-   background-color: #b0b4be;
+   background-color: #fff;
    color: var(--text-number);
    box-shadow: none;
    font-family: var(--Bebas);
@@ -403,7 +403,7 @@ table.table td h2 {
     font-weight: bold;
     text-transform: uppercase;
     font-size: 2rem;
-    color: var(--text-number);
+    color: white;
 
 }
 
@@ -415,8 +415,8 @@ table.table tbody{
 table.table {
     margin-top: 5vh;
     align-items: center;
-    padding: 28px;
-    background-color: #e9ecefdb;
+    padding: 38px;
+    background-color: #fff;
 }
 
 table.table-tab {
@@ -425,7 +425,7 @@ table.table-tab {
     /* padding: 28px; */
     min-width: 300px;
     max-width: 400px;
-    background-color: #e9ecefdb;
+    background-color: #fff;
 }
 
 
